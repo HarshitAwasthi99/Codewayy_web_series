@@ -2,15 +2,10 @@
 ul {
 
     list-style-type: none;
-
     margin: 0;
-
     padding: 0;
-
     overflow: hidden;
-
     background-color: #0000FF;
-
     width: 1200px;
 
 }
@@ -19,19 +14,14 @@ li {
 
     float: left;
     
-
 }
 
  a {
 
     display: block;
-
     color: white;
-
     text-align: center;
-
     padding: 16px;
-
     text-decoration: none;
 
 }
@@ -43,14 +33,11 @@ li {
 
 }
 
-
 .float {
 
     margin-left: 600px;
 
 }
-
-
 .box {
 
     margin-top: 5px;
@@ -58,37 +45,24 @@ li {
     float: left;
 
 }
-
-
 #name {
 
     height: 250px;
-
     width: 350px;
-
     background-color: #79c6e0;
-
     margin-left: 0px;
 
 }
 
-
 #name button {
 
     display: inline;
-
     color: blue;
-
     text-align: center;
-
     padding: 10px;
-
     background-color: transparent;
-
     text-decoration: none;
-
     margin-left: 40px;
-
     border: 1px solid blue;
 
 }
@@ -96,7 +70,6 @@ li {
 #fname {
 
     text-align: center;
-
     font-size: x-large;
 
 }
@@ -104,25 +77,17 @@ li {
 #photo {
 
     margin-left: 10px;
-
     height: 250px;
-
     width: 600px;
-
     background-image: url(images/nice.jpg);
-
     background-position: center;
-
 }
 
 #about {
 
     height: 330px;
-
     width: 960px;
-
     background-image: url(images/sky.jpg);
-
     background-position: center;
 
 }
@@ -130,7 +95,6 @@ li {
 #title{
 
     text-align: center;
-
     font-size: medium;
 
 }
@@ -138,11 +102,8 @@ li {
 #education {
 
     height: 320px;
-
     width: 470px;
-
     background-color: #79c6e0;
-
     margin-left: 0px;
 
 }
@@ -150,11 +111,8 @@ li {
 #experience {
 
     height: 320px;
-
     width: 470px;
-
     background-color: #79c6e0;
-
     margin-left: 20px;
 
 }
@@ -162,11 +120,8 @@ li {
 #myservices {
 
     height: 120px;
-
     width: 960px;
-
     background-color: #79c6e0;
-
     background-position: center;
 
 }
@@ -174,9 +129,7 @@ li {
 #s2 {
 
     height: 270px;
-
     width: 1000px;
-
     background-color: white;
 
 }
@@ -184,9 +137,7 @@ li {
 #sp {
 
     font-size: 12px;
-
     text-align: center;
-
     font-family: Arial, Helvetica, sans-serif;
 
 }
@@ -194,11 +145,8 @@ li {
 #web {
 
     height: 240px;
-
     width: 233px;
-
     background-color: #79c6e0;
-
     margin-left: 0px;
 
 }
@@ -206,11 +154,8 @@ li {
 #advertising {
 
     height: 240px;
-
     width: 233px;
-
     background-color: #79c6e0;
-
     margin-left: 10px;
 
 }
@@ -218,11 +163,8 @@ li {
 #gamedevelopment {
 
     height: 240px;
-
     width: 233px;
-
     background-color: #79c6e0;
-
     margin-left: 10px;
 
 }
@@ -230,11 +172,8 @@ li {
 #music {
 
     height: 240px;
-
     width: 232px;
-
     background-color: #79c6e0;
-
     margin-left: 10px;
 
 }
@@ -242,23 +181,16 @@ li {
 #recent {
 
     height: 120px;
-
     width: 960px;
-
     background-color: #79c6e0;
-
     background-position: center;
-
 }
 
 #mob {
 
     height: 250px;
-
     width: 233px;
-
     background-color: #79c6e0;
-
     margin-left: 0px;
 
 }
@@ -266,11 +198,8 @@ li {
 #soc{
 
     height: 250px;
-
     width: 233px;
-
     background-color: #79c6e0;
-
     margin-left: 10px;
 
 }
@@ -278,11 +207,8 @@ li {
 #ecom {
 
     height: 250px;
-
     width: 233px;
-
     background-color: #79c6e0;
-
     margin-left: 10px;
 
 }
@@ -291,11 +217,8 @@ li {
 #web {
 
     height: 250px;
-
     width: 232px;
-
     background-color: #79c6e0;
-
     margin-left: 10px;
 
 }
@@ -303,13 +226,9 @@ li {
 #empty {
 
     height: 370px;
-
     width: 470px;
-
     background-color: #c3a3ff;
-
     margin-left: 0px;
-
     margin-bottom: 20px;
 
 }
@@ -317,13 +236,9 @@ li {
 #form {
 
     height: 370px;
-
     width: 470px;
-
     background-color: #79c6e0;
-
     margin-left: 20px;
-
     margin-bottom: 20px;
 
 }
@@ -331,9 +246,7 @@ li {
 #forminput {
 
     padding-left: 70px;
-
     padding-right: 50px;
-
     margin: 10px;
 
 }
@@ -341,17 +254,11 @@ li {
 #subbtn {
 
     width: 309px;
-
     color: blue;
-
     text-align: center;
-
     padding: 10px;
-
     background-color: transparent;
-
     text-decoration: none;
-
     border: 1px solid blue;
 
 }
@@ -359,39 +266,25 @@ li {
 #formname {
 
     align-items: center;
-
     width: 295px;
-
     padding: 5px;
 
 }
-
-
 
 #fmail {
-
     align-items: center;
-
     margin-top: 5px;
-
     width: 295px;
-
     padding: 5px;
 
 }
-
-
 
 #area {
 
     align-items: center;
-
     margin-top: 5px;
-
     width: 297px;
-
-    height: 140px;
-
+    height: 140px
     padding: 5px;
 
 }
