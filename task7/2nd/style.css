@@ -6,13 +6,11 @@ body {
     font-size: 1.1em;
     line-height: 1.5;
     text-align: center;
-
 }
 img {
     display:block;
     width:100%;
     height:auto;
-
 }
 h1,h2,h3 {
     margin:0;
@@ -29,7 +27,6 @@ p {
     text-decoration: none;
     padding: 1em 2em;
     border:1px solid #666;
-
 }
 .btn:hover {
     background:#eaeaea;
@@ -40,9 +37,7 @@ p {
     min-width: height 450px;
     color:#fff;
     text-allign:center;
-
 }
-
 #showcase .bg-image {
     position:absolute;
     background:#333 url('https://ncube-digest.com/wp-content/uploads/2019/11/AI-Programming.png');
@@ -53,7 +48,6 @@ p {
     height:340px;
     Z-index:-1;
     opacity:0.4;
-
 }
 
 #showcase h1 {
@@ -104,7 +98,6 @@ footer {
 
 }
 
-
 @media (min-width:700px) {
     .grid {
         display:grid;
@@ -129,6 +122,5 @@ footer {
 }
 #section-b li {
     width:31%;
-}
+    }}
 
-}
